@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 484643a5e79baba43a2c0830e4f02ec9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7797968264209383951
+    second: soider_0
+  - first:
+      213: 985926111366794696
+    second: soider_1
+  - first:
+      213: 2391465696228896038
+    second: soider_2
+  - first:
+      213: 6968617466784689260
+    second: soider_3
+  - first:
+      213: 7352235970205208565
+    second: soider_4
+  - first:
+      213: 8859404248798264748
+    second: soider_5
+  - first:
+      213: -4964090011827535371
+    second: soider_6
+  - first:
+      213: 5310559598088511165
+    second: soider_7
+  - first:
+      213: 4835517118248420504
+    second: soider_8
+  - first:
+      213: 3844964162794713148
+    second: soider_9
+  - first:
+      213: -4823927297767751253
+    second: soider_10
+  - first:
+      213: -7699737938098447895
+    second: soider_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: soider_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.3122646, y: 0.5368127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd1b63d69647464680b333ce780ea6b
+      internalID: 7797968264209383951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 210
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.29868427, y: 0.53998536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3259d4f92406c349ae6c007ec8388bb
+      internalID: 985926111366794696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 210
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.29868445, y: 0.53998536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebeb15eb4733ae4dbd7228b9c9d95f7
+      internalID: 2391465696228896038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.30062225, y: 0.56705993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d670503839485df4eacb565fab45d3ea
+      internalID: 6968617466784689260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.30562624, y: 0.53998536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcef41faf43d594cb7fcbc4060c0b03
+      internalID: 7352235970205208565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 146
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.29043898, y: 0.5447064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d475444ae91234c8553620dad81b02
+      internalID: 8859404248798264748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 82
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.30062225, y: 0.5447064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be7d5cd9246e234a97d56ef26e64997
+      internalID: -4964090011827535371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_7
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.29868427, y: 0.53998536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3a03ce410f1e488a1627aa703d3e9
+      internalID: 5310559598088511165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 82
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.30208078, y: 0.56706023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ab935a47948174b984777d1578474e
+      internalID: 4835517118248420504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 18
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.31226456, y: 0.5447064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 402505ac46e965b4aa3bc806a7f172d7
+      internalID: 3844964162794713148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 18
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.31372342, y: 0.5447064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf124b5e56d56dc4d913c3fd35903e88
+      internalID: -4823927297767751253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soider_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 18
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.30208078, y: 0.5447064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df196f3e9eeafe540870ab8ba7c2b4f3
+      internalID: -7699737938098447895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
